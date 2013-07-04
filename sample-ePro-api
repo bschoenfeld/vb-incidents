@@ -1,0 +1,701 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Incidents>
+    <Agency>Virginia Beach Police Department</Agency>
+    <DateGenerated>7/3/2013 7:30:59 PM</DateGenerated>
+    <RequestedBy>bret@codeforamerica.org</RequestedBy>
+    <Criteria>
+        <DateReported>7/3/2013</DateReported>
+    </Criteria>
+    <TotalRecords>5</TotalRecords>
+    <Incident>
+        <CaseNo>2013028920</CaseNo>
+        <Location>
+            <BlockNo>700-BLK</BlockNo>
+            <StreetDir>
+            </StreetDir>
+            <Street>MILITARY HY S</Street>
+            <City>VIRGINIA BEACH</City>
+            <State>VA</State>
+            <Zip>23464     </Zip>
+            <Zone>420 </Zone>
+            <Neighborhood>COLLEGE PARK SQUARE SHPG CTR</Neighborhood>
+        </Location>
+        <ReportDate>7/3/2013 2:30:00 AM</ReportDate>
+        <LastKnownSecure>7/3/2013 12:01:00 AM</LastKnownSecure>
+        <AtFound>7/3/2013 2:30:00 AM</AtFound>
+        <ReportingOfficer>WRIGHT, C. K.</ReportingOfficer>
+        <Supervisor>GRAY, S. C.</Supervisor>
+        <InvestigatingOfficer>WRIGHT, C. K.</InvestigatingOfficer>
+        <CaseStatus>EXCEPTIONALLY CLEARED</CaseStatus>
+        <CaseStatusDate>7/3/2013</CaseStatusDate>
+        <DispositionStatus>PROSECUTION DECLINED</DispositionStatus>
+        <DispositionDate>7/3/2013</DispositionDate>
+        <Crimes>
+            <Crime>
+                <CrimeSeqNumber>1</CrimeSeqNumber>
+                <CrimeDescription>UNAUTHORIZED USE OF AUTO</CrimeDescription>
+                <CrimeCode>270B</CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>RESIDENCE, MULTI-FAMILY DWELLI</Premise>
+                <HowLeftScene>AUTO</HowLeftScene>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info>
+                    <Security>CAMERA</Security>
+                </SecurityType_Info>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+        </Crimes>
+        <ModusOperandi>
+            <MethodOfEntry/>
+            <Trademarks/>
+        </ModusOperandi>
+        <VictimsAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>VI</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>Restricted</Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1</VictimOfCrimes>
+                <WillProsecute>N</WillProsecute>
+                <Age/>
+                <Sex/>
+                <RaceCode/>
+            </VictimAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>CO</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>Restricted</Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age/>
+                <Sex/>
+                <RaceCode/>
+            </VictimAndOthersInvolved>
+        </VictimsAndOthersInvolved>
+        <Properties>
+            <Note>No RELATED PROPERTIES</Note>
+        </Properties>
+        <Vehicles>
+            <Vehicle>
+                <Type>CAR (PASSENGER)</Type>
+                <Statuses>7   </Statuses>
+                <Value>$16,000.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Description>
+                    <YearMakeModel>2013 CHRYSLER SEBRING</YearMakeModel>
+                    <Style>4-DOOR</Style>
+                    <Colors>SILVER / ALUMINUM</Colors>
+                </Description>
+                <LicensePlate>VA-XASxxxx</LicensePlate>
+                <VIN>1C3CC4FB3AN18xxxx</VIN>
+            </Vehicle>
+            <TotalStolenValue>$16,000.00</TotalStolenValue>
+            <TotalRecoveredValue>$0.00</TotalRecoveredValue>
+            <Note>'Value' is $1 if Unknown. 'Recovered Value' displays value of vehicle based on the condition at the time of recovery</Note>
+        </Vehicles>
+    </Incident>
+    <Incident>
+        <CaseNo>2013028934</CaseNo>
+        <Location>
+            <BlockNo>100-BLK</BlockNo>
+            <StreetDir>
+            </StreetDir>
+            <Street>WILEY PL</Street>
+            <City>VIRGINIA BEACH</City>
+            <State>VA</State>
+            <Zip>23452     </Zip>
+            <Zone>322 </Zone>
+            <Neighborhood>CHESTNUT VILLA IN THALIA</Neighborhood>
+        </Location>
+        <ReportDate>7/3/2013 10:13:00 AM</ReportDate>
+        <LastKnownSecure>6/1/2009 8:00:00 AM</LastKnownSecure>
+        <AtFound>6/1/2009 8:00:00 AM</AtFound>
+        <ReportingOfficer>HOLLOMAN, A. B.</ReportingOfficer>
+        <Supervisor>CAMPBELL, S. D.</Supervisor>
+        <InvestigatingOfficer>HOLLOMAN, A. B.</InvestigatingOfficer>
+        <CaseStatus>OTHER</CaseStatus>
+        <CaseStatusDate>7/3/2013</CaseStatusDate>
+        <DispositionStatus/>
+        <DispositionDate/>
+        <Crimes>
+            <Crime>
+                <CrimeSeqNumber>1</CrimeSeqNumber>
+                <CrimeDescription>FRAUD, IDENTITY THEFT</CrimeDescription>
+                <CrimeCode>26A7</CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>RESIDENCE, SINGLE-FAMILY</Premise>
+                <HowLeftScene/>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info/>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+        </Crimes>
+        <ModusOperandi>
+            <MethodOfEntry/>
+            <Trademarks/>
+        </ModusOperandi>
+        <VictimsAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>VI</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>JOHNSON, ERIC JAMES      </Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age>23</Age>
+                <Sex>M</Sex>
+                <RaceCode>W</RaceCode>
+            </VictimAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>CO</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>JOHNSON, ERIC JAMES      </Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age>23</Age>
+                <Sex>M</Sex>
+                <RaceCode>W</RaceCode>
+            </VictimAndOthersInvolved>
+        </VictimsAndOthersInvolved>
+        <Properties>
+            <Property>
+                <Type>OTHER</Type>
+                <Statuses>7   </Statuses>
+                <Value>$0.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>IDENTITY THEFT - PERSONAL INFORMATION</GeneralDesc>
+                    <Make>
+                    </Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>
+                    </SerialNumber>
+                </Description>
+            </Property>
+            <TotalStolenValue>$0.00</TotalStolenValue>
+            <TotalRecoveredValue>$0.00</TotalRecoveredValue>
+            <Note>'Value' is $1 if Unknown. 'Recovered Value' displays value of property based on the condition at the time of recovery</Note>
+        </Properties>
+        <Vehicles>
+            <Note>No RELATED VEHICLES</Note>
+        </Vehicles>
+    </Incident>
+    <Incident>
+        <CaseNo>2013028937</CaseNo>
+        <Location>
+            <BlockNo>800-BLK</BlockNo>
+            <StreetDir>
+            </StreetDir>
+            <Street>BROAD MEADOWS CT</Street>
+            <City>VIRGINIA BEACH</City>
+            <State>VA</State>
+            <Zip>23462     </Zip>
+            <Zone>327 </Zone>
+            <Neighborhood>BROAD MEADOWS</Neighborhood>
+        </Location>
+        <ReportDate>7/3/2013 11:00:00 AM</ReportDate>
+        <LastKnownSecure>7/3/2013 8:00:00 AM</LastKnownSecure>
+        <AtFound>7/3/2013 8:00:00 AM</AtFound>
+        <ReportingOfficer>HOLLOMAN, A. B.</ReportingOfficer>
+        <Supervisor>CAMPBELL, S. D.</Supervisor>
+        <InvestigatingOfficer>HOLLOMAN, A. B.</InvestigatingOfficer>
+        <CaseStatus>INACTIVE - PENDING</CaseStatus>
+        <CaseStatusDate>7/3/2013</CaseStatusDate>
+        <DispositionStatus/>
+        <DispositionDate/>
+        <Crimes>
+            <Crime>
+                <CrimeSeqNumber>1</CrimeSeqNumber>
+                <CrimeDescription>FRAUD, IDENTITY THEFT</CrimeDescription>
+                <CrimeCode>26A7</CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>RESIDENCE, MULTI-FAMILY DWELLI</Premise>
+                <HowLeftScene/>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info/>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+        </Crimes>
+        <ModusOperandi>
+            <MethodOfEntry/>
+            <Trademarks/>
+        </ModusOperandi>
+        <VictimsAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>VI</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>Restricted</Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age/>
+                <Sex/>
+                <RaceCode/>
+            </VictimAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>CO</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>Restricted</Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age/>
+                <Sex/>
+                <RaceCode/>
+            </VictimAndOthersInvolved>
+        </VictimsAndOthersInvolved>
+        <Properties>
+            <Property>
+                <Type>OTHER</Type>
+                <Statuses>OTHR</Statuses>
+                <Value>$0.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>FRAUDULENT COX CABLE ACCOUNT</GeneralDesc>
+                    <Make>
+                    </Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>
+                    </SerialNumber>
+                </Description>
+            </Property>
+            <Property>
+                <Type>OTHER</Type>
+                <Statuses>7   </Statuses>
+                <Value>$0.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>IDENTITY THEFT - PERSONAL INFORMATION</GeneralDesc>
+                    <Make>
+                    </Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>
+                    </SerialNumber>
+                </Description>
+            </Property>
+            <TotalStolenValue>$0.00</TotalStolenValue>
+            <TotalRecoveredValue>$0.00</TotalRecoveredValue>
+            <Note>'Value' is $1 if Unknown. 'Recovered Value' displays value of property based on the condition at the time of recovery</Note>
+        </Properties>
+        <Vehicles>
+            <Note>No RELATED VEHICLES</Note>
+        </Vehicles>
+    </Incident>
+    <Incident>
+        <CaseNo>2013028946</CaseNo>
+        <Location>
+            <BlockNo>600-BLK</BlockNo>
+            <StreetDir>
+            </StreetDir>
+            <Street>GREEN VALLEY DR</Street>
+            <City>VIRGINIA BEACH</City>
+            <State>VA</State>
+            <Zip>23462     </Zip>
+            <Zone>426 </Zone>
+            <Neighborhood>LARKSPUR</Neighborhood>
+        </Location>
+        <ReportDate>7/3/2013 11:36:00 AM</ReportDate>
+        <LastKnownSecure>6/20/2013 8:00:00 AM</LastKnownSecure>
+        <AtFound>6/20/2013 8:00:00 AM</AtFound>
+        <ReportingOfficer>HOLLOMAN, A. B.</ReportingOfficer>
+        <Supervisor>CAMPBELL, S. D.</Supervisor>
+        <InvestigatingOfficer/>
+        <CaseStatus>ACTIVE - PENDING</CaseStatus>
+        <CaseStatusDate>7/3/2013</CaseStatusDate>
+        <DispositionStatus/>
+        <DispositionDate/>
+        <Crimes>
+            <Crime>
+                <CrimeSeqNumber>2</CrimeSeqNumber>
+                <CrimeDescription>FRAUD, CREDIT CARD</CrimeDescription>
+                <CrimeCode>26B1</CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>RESIDENCE, SINGLE-FAMILY</Premise>
+                <HowLeftScene/>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info/>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+            <Crime>
+                <CrimeSeqNumber>1</CrimeSeqNumber>
+                <CrimeDescription>LARCENY, ALL OTHERS</CrimeDescription>
+                <CrimeCode>23H </CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>RESIDENCE, SINGLE-FAMILY</Premise>
+                <HowLeftScene/>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info/>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+        </Crimes>
+        <ModusOperandi>
+            <MethodOfEntry/>
+            <Trademarks/>
+        </ModusOperandi>
+        <VictimsAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>VI</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>HADDOCK, MIRIAM ELLIOTT      </Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1,2</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age>63</Age>
+                <Sex>F</Sex>
+                <RaceCode>W</RaceCode>
+            </VictimAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>CO</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>HADDOCK, MIRIAM ELLIOTT      </Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1,2</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age>63</Age>
+                <Sex>F</Sex>
+                <RaceCode>W</RaceCode>
+            </VictimAndOthersInvolved>
+        </VictimsAndOthersInvolved>
+        <Properties>
+            <Property>
+                <Type>CREDIT/DEBIT CARDS</Type>
+                <Statuses>7   </Statuses>
+                <Value>$0.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>CREDIT / DEBIT CARD NUMBERS</GeneralDesc>
+                    <Make>USAA</Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>ENDING IN xxxx</SerialNumber>
+                </Description>
+            </Property>
+            <Property>
+                <Type>OTHER</Type>
+                <Statuses>7   </Statuses>
+                <Value>$744.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>FRAUD CHARGE - BESTBUY.COM</GeneralDesc>
+                    <Make>
+                    </Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>
+                    </SerialNumber>
+                </Description>
+            </Property>
+            <TotalStolenValue>$743.98</TotalStolenValue>
+            <TotalRecoveredValue>$0.00</TotalRecoveredValue>
+            <Note>'Value' is $1 if Unknown. 'Recovered Value' displays value of property based on the condition at the time of recovery</Note>
+        </Properties>
+        <Vehicles>
+            <Note>No RELATED VEHICLES</Note>
+        </Vehicles>
+    </Incident>
+    <Incident>
+        <CaseNo>2013028960</CaseNo>
+        <Location>
+            <BlockNo>1500-BLK</BlockNo>
+            <StreetDir>
+            </StreetDir>
+            <Street>THREE GAIT TL</Street>
+            <City>VIRGINIA BEACH</City>
+            <State>VA</State>
+            <Zip>23453     </Zip>
+            <Zone>128 </Zone>
+            <Neighborhood>GRASSLAND FARMS</Neighborhood>
+        </Location>
+        <ReportDate>7/3/2013 12:00:00 PM</ReportDate>
+        <LastKnownSecure>6/18/2013 8:00:00 AM</LastKnownSecure>
+        <AtFound>6/21/2013 11:59:00 PM</AtFound>
+        <ReportingOfficer>HOLLOMAN, A. B.</ReportingOfficer>
+        <Supervisor>CAMPBELL, S. D.</Supervisor>
+        <InvestigatingOfficer>HOLLOMAN, A. B.</InvestigatingOfficer>
+        <CaseStatus>OTHER</CaseStatus>
+        <CaseStatusDate>7/3/2013</CaseStatusDate>
+        <DispositionStatus/>
+        <DispositionDate/>
+        <Crimes>
+            <Crime>
+                <CrimeSeqNumber>1</CrimeSeqNumber>
+                <CrimeDescription>LARCENY, ALL OTHERS</CrimeDescription>
+                <CrimeCode>23H </CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>RESIDENCE, SINGLE-FAMILY</Premise>
+                <HowLeftScene/>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info/>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+            <Crime>
+                <CrimeSeqNumber>2</CrimeSeqNumber>
+                <CrimeDescription>FRAUD, CREDIT CARD</CrimeDescription>
+                <CrimeCode>26B1</CrimeCode>
+                <AttemptedOrCompleted>Completed</AttemptedOrCompleted>
+                <Premise>OTHER/UNKNOWN</Premise>
+                <HowLeftScene/>
+                <Entry_Info/>
+                <Exit_Info/>
+                <SecurityType_Info/>
+                <CriminalActivity_Info/>
+                <WeaponTools_Info/>
+                <BiasMotivation>NONE (NO BIAS)</BiasMotivation>
+            </Crime>
+        </Crimes>
+        <ModusOperandi>
+            <MethodOfEntry/>
+            <Trademarks/>
+        </ModusOperandi>
+        <VictimsAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>VI</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>VALACH, VLADO MILAN      </Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1,2</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age>40</Age>
+                <Sex>M</Sex>
+                <RaceCode>W</RaceCode>
+            </VictimAndOthersInvolved>
+            <VictimAndOthersInvolved>
+                <SequenceNumber>1</SequenceNumber>
+                <InvolvementCode>CO</InvolvementCode>
+                <Type>INDIVIDUAL</Type>
+                <Name>VALACH, VLADO MILAN      </Name>
+                <SequenceNumber>1</SequenceNumber>
+                <Injuries/>
+                <VictimOfCrimes>1,2</VictimOfCrimes>
+                <WillProsecute>Y</WillProsecute>
+                <Age>40</Age>
+                <Sex>M</Sex>
+                <RaceCode>W</RaceCode>
+            </VictimAndOthersInvolved>
+        </VictimsAndOthersInvolved>
+        <Properties>
+            <Property>
+                <Type>CREDIT/DEBIT CARDS</Type>
+                <Statuses>7   </Statuses>
+                <Value>$0.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>CREDIT/DEBIT CARD - NUMBERS</GeneralDesc>
+                    <Make>
+                    </Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>
+                    </SerialNumber>
+                </Description>
+            </Property>
+            <Property>
+                <Type>OTHER</Type>
+                <Statuses>7   </Statuses>
+                <Value>$10,000.00</Value>
+                <RecoveredValue>$0.00</RecoveredValue>
+                <Quantity>1.0000</Quantity>
+                <Unit>
+                </Unit>
+                <Description>
+                    <GeneralDesc>FRAUD CHARGES - ARIZONA                 </GeneralDesc>
+                    <Make>
+                    </Make>
+                    <Model>
+                    </Model>
+                    <SerialNumber>
+                    </SerialNumber>
+                </Description>
+            </Property>
+            <TotalStolenValue>$10,000.00</TotalStolenValue>
+            <TotalRecoveredValue>$0.00</TotalRecoveredValue>
+            <Note>'Value' is $1 if Unknown. 'Recovered Value' displays value of property based on the condition at the time of recovery</Note>
+        </Properties>
+        <Vehicles>
+            <Note>No RELATED VEHICLES</Note>
+        </Vehicles>
+    </Incident>
+    <InvolvementCodes>
+        <InvolvementCode>
+            <Code>CO</Code>
+            <Description>COMPLAINANT</Description>
+        </InvolvementCode>
+        <InvolvementCode>
+            <Code>DR</Code>
+            <Description>DRIVER</Description>
+        </InvolvementCode>
+        <InvolvementCode>
+            <Code>OW</Code>
+            <Description>OWNER</Description>
+        </InvolvementCode>
+        <InvolvementCode>
+            <Code>VI</Code>
+            <Description>VICTIM</Description>
+        </InvolvementCode>
+        <InvolvementCode>
+            <Code>VO</Code>
+            <Description>VICTIM, OTHER</Description>
+        </InvolvementCode>
+    </InvolvementCodes>
+    <RaceCodes>
+        <RaceCode>
+            <Code>A</Code>
+            <Description>ASIAN OR PACIFIC ISLAND (ASIAN INDIAN, POLYNESIAN)</Description>
+        </RaceCode>
+        <RaceCode>
+            <Code>B</Code>
+            <Description>BLACK/AFRICAN AMERICAN</Description>
+        </RaceCode>
+        <RaceCode>
+            <Code>I</Code>
+            <Description>AMERICAN INDIAN/ALASKAN NATIVE</Description>
+        </RaceCode>
+        <RaceCode>
+            <Code>U</Code>
+            <Description>UNKNOWN</Description>
+        </RaceCode>
+        <RaceCode>
+            <Code>W</Code>
+            <Description>WHITE</Description>
+        </RaceCode>
+    </RaceCodes>
+    <PropertyStatuses>
+        <PropertyStatus>
+            <Code>1</Code>
+            <Description>NONE</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>2</Code>
+            <Description>BURNED</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>3</Code>
+            <Description>COUNTERFEITED/FORGED</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>4</Code>
+            <Description>DAMAGED/DESTROYED/VANDALIZED</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>5</Code>
+            <Description>RECOVERED</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>6</Code>
+            <Description>SEIZED/IMPOUNDED/EVIDENCE</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>7</Code>
+            <Description>STOLEN</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>8</Code>
+            <Description>UNKNOWN</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>OTHR</Code>
+            <Description>OTHER/FOUND</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>SUSP</Code>
+            <Description>SUSPECT</Description>
+        </PropertyStatus>
+        <PropertyStatus>
+            <Code>TARG</Code>
+            <Description>TARGET VEHICLE/PROPERTY</Description>
+        </PropertyStatus>
+    </PropertyStatuses>
+    <VehicleStatuses>
+        <VehicleStatus>
+            <Code>2</Code>
+            <Description>BURNED</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>3</Code>
+            <Description>COUNTERFEITED/FORGED</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>4</Code>
+            <Description>DAMAGED/DESTROYED/VANDALIZED</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>5</Code>
+            <Description>RECOVERED</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>6</Code>
+            <Description>SEIZED/IMPOUNDED/EVIDENCE</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>7</Code>
+            <Description>STOLEN</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>8</Code>
+            <Description>UNKNOWN</Description>
+        </VehicleStatus>
+        <VehicleStatus>
+            <Code>OTHR</Code>
+            <Description>OTHER/FOUND</Description>
+        </VehicleStatus>
+    </VehicleStatuses>
+</Incidents>
