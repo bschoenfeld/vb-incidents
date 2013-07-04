@@ -18,9 +18,7 @@ Ideas for Use
 
 Limitations of API
 ==================
-Current API limits query to one day per query, of which all incident data for that day is returned.  
+ * Current API limits query to one day per query, of which all incident data for that day is returned.  
 It may be necessary to cache the data in a local storage mechanism for more flexable searching and data display.  
-
-A single query to the API took up to 6 seconds in testing.
-
-Data only goes back to 1/1/2011.
+ * A single query to the API took up to 6 seconds in testing.
+ * Data only goes back to 1/1/2011.
