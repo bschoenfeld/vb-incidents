@@ -9,7 +9,7 @@ Pulling data from Virginia Beach ePro app of police incidents, for testing new w
  * In root of this repo is output of a single call to the API, in xml format. 
  * API will only return one days worth of data, and only search value is date.
 
-Ideas for Use
+Ideas for Use ([more here](https://github.com/c4hrva/vb-incidents/issues?labels=enhancement&page=1&state=open))
 =============
  * Charts and stats showing incidents by date, type
  * Maps showing heatmaps by date range, year-over-year, by type, by change
