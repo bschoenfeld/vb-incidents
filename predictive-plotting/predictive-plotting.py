@@ -4,6 +4,7 @@ import sys
 import threading
 from geopy import geocoders
 from select import select
+from time import sleep
 
 numRows = sum(1 for line in open('predictive-plotting.csv'))
 rows = 0
@@ -33,6 +34,7 @@ class Geocoder(threading.Thread):
             with open('predictive-plotting.temp.csv', 'wb') as f2:
                 reader = csv.reader(f)
                 writer = csv.writer(f2)
+                geocoder = geocoders.googlev3.GoogleV3()
                 
                 for row in reader:
                     rows += 1
@@ -42,9 +44,9 @@ class Geocoder(threading.Thread):
                         skipped += 1
                     else:
                         address = row[3].strip() + ', Virginia Beach, VA'
-                        geocoder = geocoders.googlev3.GoogleV3()
                         try:
                             place, (lat, lng) = geocoder.geocode(address, exactly_one=False)[0]
+                            sleep(0.2)
                             row.append(place)
                             row.append(lat)
                             row.append(lng)
