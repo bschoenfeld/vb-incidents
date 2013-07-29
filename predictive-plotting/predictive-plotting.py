@@ -46,7 +46,7 @@ class Geocoder(threading.Thread):
                         address = row[3].strip() + ', Virginia Beach, VA'
                         try:
                             place, (lat, lng) = geocoder.geocode(address, exactly_one=False)[0]
-                            sleep(0.2)
+                            sleep(0.1)
                             row.append(place)
                             row.append(lat)
                             row.append(lng)
