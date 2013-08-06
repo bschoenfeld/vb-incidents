@@ -11,6 +11,7 @@ rows = 0
 skipped = 0
 google = 0
 failed = 0
+duplicate = 0
 
 class InputWatcher(threading.Thread):
     def __init__(self):
@@ -24,12 +25,10 @@ class Geocoder(threading.Thread):
         threading.Thread.__init__(self)
     
     def run(self):
-        global failed
-        global skipped
-        global rows
-        global google
+        global failed, skipped, rows, google, duplicate
         
         self.running = True
+        addressStore = {}
         with open('predictive-plotting.csv', 'rb') as f:
             with open('predictive-plotting.temp.csv', 'wb') as f2:
                 reader = csv.reader(f)
@@ -37,22 +36,32 @@ class Geocoder(threading.Thread):
                 geocoder = geocoders.googlev3.GoogleV3()
                 
                 for row in reader:
+                    address = row[3].strip()
                     rows += 1
                     if not self.running:
                         failed += 1
                     elif len(row) > 4:
                         skipped += 1
+                        if not addressStore.has_key(address):
+                            addressStore[address] = (row[4], row[5], row[6])
                     else:
-                        address = row[3].strip() + ', Virginia Beach, VA'
-                        try:
-                            place, (lat, lng) = geocoder.geocode(address, exactly_one=False)[0]
-                            sleep(0.1)
-                            row.append(place)
-                            row.append(lat)
-                            row.append(lng)
-                            google += 1
-                        except:
-                            failed += 1
+                        if addressStore.has_key(address):
+                            location = addressStore[address]
+                            row.append(location[0])
+                            row.append(location[1])
+                            row.append(location[2])
+                            duplicate += 1
+                        else:
+                            try:
+                                place, (lat, lng) = geocoder.geocode(address + ', Virginia Beach, VA', exactly_one=False)[0]
+                                sleep(0.1)
+                                addressStore[address] = (place, lat, lng)
+                                row.append(place)
+                                row.append(lat)
+                                row.append(lng)
+                                google += 1
+                            except:
+                                failed += 1
                     writer.writerow(row)
                     sys.stdout.write('\rProcessed {0}/{1}. Errors: {2}'.format(str(rows), str(numRows), failed))
                     sys.stdout.flush()
@@ -78,6 +87,7 @@ print '\nDONE'
 print '================='
 print 'Rows:' + str(rows)
 print 'Already Done:' + str(skipped)
+print 'Duplicate Found:' + str(duplicate)
 print 'Google Geocode:' + str(google)
 print 'Not Geocoded:' + str(failed)
 print 'File {0}% Geocoded'.format(100 - (100*float(failed)/float(rows)))
